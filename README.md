@@ -16,7 +16,7 @@ I am a Business Administration & Engineering student at RWTH Aachen, currently c
 - Strategic, conceptual work
 - Learning and meeting inspiring people
 
-🌱 **I’m currently learning** (or trying to)
+🌱 **I’m currently interested in**
 - improving training of deep clustering methods
 - semi-supervised learning for state prediction
 - physics-informed neural networks
