@@ -8,7 +8,7 @@ I am a Business Administration & Engineering student at RWTH Aachen, currently c
 - **explainable AI** approaches for computer vision models
 - unsupervised NLP methods for **topic modelling**
 - **factor research** for quantitative investment approaches
-- and some more...
+- (among others)
 
 👀 **I genuinely enjoy**
 - Analytical thinking and mathematical problems
