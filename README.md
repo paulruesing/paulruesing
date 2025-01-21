@@ -2,25 +2,24 @@
 
 I am a Business Administration & Engineering student at RWTH Aachen, currently completing my master's. Thanks for checking out my github!
 
-🔧 **I work on**
+🔧 **I work(ed) on**
 - deep learning approaches for **time-series clustering**
 - **state estimation frameworks** based on operational data for batteries
 - **explainable AI** approaches for computer vision models
 - unsupervised NLP methods for **topic modelling**
 - **factor research** for quantitative investment approaches
-- (among others)
-
-👀 **I genuinely enjoy**
-- Analytical thinking and mathematical problems
-- Technology and its playbook from engineering to programming 
-- Strategic, conceptual work
-- Learning and meeting inspiring people
 
 🌱 **I’m further interested in**
 - improving training of deep clustering methods
 - semi-supervised learning for state prediction
 - physics-informed neural networks
 - reinforcement learning
+
+👀 **I genuinely enjoy**
+- Analytical thinking and mathematical problems
+- Technology and its playbook from engineering to programming 
+- Strategic, conceptual work
+- Learning and meeting inspiring people
 
 Story to be continued..
 
