@@ -3,6 +3,7 @@
 I am a Business Administration & Engineering student at RWTH Aachen, currently completing my master's. Thanks for checking out my github!
 
 🔧 **I work(ed) on**
+- **reinforcement and supervised learning** approaches for stock trading
 - deep learning approaches for **time-series clustering**
 - **state estimation frameworks** based on operational data for batteries
 - **explainable AI** approaches for computer vision models
@@ -10,10 +11,8 @@ I am a Business Administration & Engineering student at RWTH Aachen, currently c
 - **factor research** for quantitative investment approaches
 
 🌱 **I’m further interested in**
-- improving training of deep clustering methods
 - semi-supervised learning for state prediction
 - physics-informed neural networks
-- reinforcement learning
 
 👀 **I genuinely enjoy**
 - Analytical thinking and mathematical problems
