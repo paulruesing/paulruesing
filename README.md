@@ -7,6 +7,7 @@ I am a Business Administration & Engineering student at RWTH Aachen, currently c
 - deep learning approaches for **time-series clustering**
 - **state estimation frameworks** based on operational data for batteries
 - **explainable AI** approaches for computer vision models
+- **image segmentation** for computer vision
 - unsupervised NLP methods for **topic modelling**
 - **factor research** for quantitative investment approaches
 
