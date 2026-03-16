@@ -22,7 +22,7 @@ I work(ed) on applied ML solutions across finance, energy, and medical technolog
 **Working proficiency**: Rust (production API development), TensorFlow, ONNX, CoreML
 
 ### 🌱 What I'm interested in next
-**Physical AI** and robotics, **sensor fusion**, **diffusion models**, **physics-informed neural networks** - and roles where I can build something that matters with genuine ownership.
+**Physical AI and robotics**, **sensor fusion**, **diffusion models**, **physics-informed neural networks** - and roles where I can build something that matters with genuine ownership.
 
 
 📍 Based in Zürich. Feel free to reach out.
