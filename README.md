@@ -1,33 +1,29 @@
-👋 Hi, I‘m Paul.
+👋 Hi, I'm Paul.
 
-I am a Business Administration & Engineering student at RWTH Aachen, currently completing my master's. Thanks for checking out my github!
+I'm an electrical engineer at the intersection of machine learning and applied systems — finishing my M.Sc. at **RWTH Aachen** (Electrical Engineering & Business Administration) with a thesis at **ETH Zürich's Institute of Neuroinformatics**.
 
-🔧 **I work(ed) on**
-- **image segmentation models** for computer vision
-- **resource constrained model accelaration** for pytorch-NN deployment in rust via CoreML or ONNX inference backends
-- **reinforcement and supervised learning** approaches for stock trading
-- **explainable AI** approaches for computer vision models
-- deep learning approaches for **time-series clustering**
-- **state estimation frameworks** based on operational data for batteries
-- unsupervised NLP methods for **topic modelling**
-- **factor research** for quantitative investment approaches
 
-🌱 **I’m further interested in**
-- sensor fusion
-- diffusion models
-- physics-informed neural networks
+### 🔧 What I build
+I work(ed) on applied ML solutions across finance, energy, and medical technology:
 
-👀 **I genuinely enjoy**
-- Analytical thinking and mathematical problems
-- Technology and its playbook from engineering to programming 
-- Strategic, conceptual work
-- Learning and meeting inspiring people
+**Biomedical signal processing** - EEG/EMG coherence analysis, cortico-muscular coupling, multimodal biosignal toolkits with hardware integration (microcontrollers, medical-grade EMG systems)
 
-Story to be continued..
+**Computer vision** - image segmentation pipelines for artifact removal, exported to ONNX and CoreML, consumed via a native Rust desktop application
 
-📫 How to reach me: pr@paulruesing.de
+**Time-series ML** - statistical modeling and simulation methods for battery state estimation and fault detection; RNN-based financial forecasting with backtesting and RL agent training
 
-<!---
-paulruesing/paulruesing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Explainability** - Layer-wise Relevance Propagation (LRP) for CNN-based image classification
+
+**Unsupervised learning** - deep clustering (autoencoder-based), topic modelling (LDA)
+
+### 🛠️ Stack
+**Proficient**: Python (PyTorch, Pandas, NumPy, scikit-learn), Git
+
+**Working proficiency**: Rust (production API development), TensorFlow, ONNX, CoreML
+
+### 🌱 What I'm interested in next
+**Physical AI** and robotics, **sensor fusion**, **diffusion models**, **physics-informed neural networks** - and roles where I can build something that matters with genuine ownership.
+
+
+📍 Based in Zürich. Feel free to reach out.
+📫 pr@paulruesing.de
