@@ -10,7 +10,7 @@ I work(ed) on applied ML solutions across finance, energy, and medical technolog
 
 **Computer vision** - image segmentation pipelines for artifact removal, exported to ONNX and CoreML, consumed via a native Rust desktop application
 
-**Time-series ML** - statistical modeling and simulation methods for battery state estimation and fault detection; RNN-based financial forecasting with backtesting and RL agent training
+**Time-series ML** - optimisation and simulation methods for battery state estimation and fault detection; RNN-based financial forecasting with backtesting and RL agent training; load profile simulation for economic modelling
 
 **Explainability** - Layer-wise Relevance Propagation (LRP) for CNN-based image classification
 
