@@ -1,6 +1,6 @@
 👋 Hi, I'm Paul.
 
-I'm an electrical engineer at the intersection of machine learning and applied systems — finishing my M.Sc. at **RWTH Aachen** (Electrical Engineering & Business Administration) with a thesis at **ETH Zurich's Institute of Neuroinformatics**.
+I'm a trained electrical engineer at the intersection of machine learning, applied systems and business.
 
 
 ### 🔧 What I build
